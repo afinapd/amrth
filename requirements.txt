@@ -1,0 +1,5 @@
+selenium==4.16.0
+behave==1.2.6
+webdriver-manager==4.0.1
+pretty-traceback==2024.1021
+behave-html-formatter==0.9.10
